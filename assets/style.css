@@ -1,0 +1,28 @@
+body{
+    background-color: whitesmoke;
+}
+a{
+    text-decoration: none;
+    margin: 4%;
+    padding: 8px;
+}
+#home{
+    margin-left: 0%;
+}
+.sect{
+
+}
+.content{
+    float: left;
+    width: 50%;
+    padding-top: 30px;
+}
+.sect-a{
+    float: left;
+    width: 50%;
+    padding-top:30px;
+}
+button{
+    margin: 20px;
+    border-radius: 70px;
+}
